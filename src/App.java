@@ -3,7 +3,6 @@ class Teacher {
     void display() {
         System.out.println("hey I am a teacher ");
     }
-
     public class Student {
         void display() {
             System.out.println("hello student");
